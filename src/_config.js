@@ -1,11 +1,3 @@
-export const process = {
-  dev: true
-}
-
-export const site = {
-  home: process.dev ? 'http://localhost:8080/' : 'https://site-url.ru'
-}
-
 export const app = {
   title: 'Template'
 }
