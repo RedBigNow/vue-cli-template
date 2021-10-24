@@ -1,8 +1,5 @@
 # Vue-cli template (Vue.js 3)
 
-## Demo:
-https://redbignow.github.io/vue-cli-template/dist/index.html
-
 ## Project setup
 
 ```

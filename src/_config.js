@@ -1,5 +1,5 @@
 export const app = {
-  title: 'Template'
+  title: 'Vue-Cli'
 }
 
 export const links = [
